@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/thisisrajpatil/thisisrajpatil.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+An enthusiastic, creative and hardworking individual with keen interest in Data Scientist and Analyst Roles. Mechanical Engineer with Solid command of technologies,
+tools and best practices in designing mechanical equipment using AutoCAD, Catia and engineering drawings. A quick learner who can absorb new ideas and communicate clearly and effectively. Seeking a platform to enhance and explore my technical knowledge and strive to be a professional in the field of Information Technology. Highly organised and efficient in fast-paced multitasking enviroments, able to accomplish objectives with creativity, enthusiam & humor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **Data Science & Business Analytics**
+### The Sparks Foundation
 
-1. Numbered
-2. List
+• Working on data analysis & building visualization dashboard part of a project - EDA of Retail Superstore.
+• Followin CRISP-DM Process while providing data solution.
 
-**Bold** and _Italic_ and `Code` text
+### **FRONTEND DEVELOPER**
+### Booking.com
 
-[Link](url) and ![Image](src)
-```
+Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **Managed Network Expert**
+### Chegg Inc.
 
-### Jekyll Themes
+• Experts answer questions asked by students. follow quality parameters defined by Chegg and ensure that guidelines of answering are strictly followed while maintaining academic
+integrity.
+• Promote Chegg expert program among peers and assit them with expert related queries through online web meetings. Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thisisrajpatil/thisisrajpatil.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **Dr. D. Y. Patil Institute of Technology Pimpri, Pune**
+### B.E. Mechanical Engineering (2018- 2022)
+GPA 8.45
+
+---
+
+### INTERESTS
+• Stock Market & Financial Literacy
+• Listening Music & Exploring New Places
+• Cooking
