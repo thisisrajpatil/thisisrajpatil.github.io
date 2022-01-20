@@ -1,1 +1,11 @@
+title: Raj Patil # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Engineer
+  <br><br>
+  <a href="mailto:rajptl1301@gmail.com">rajpatil1301@gmail.com </a>
+  <br>
+  <a href="www.linkedin.com/in/mrrajpatil/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/thisisrajpatil/">Gihub</a> 
 theme: jekyll-theme-minimal
