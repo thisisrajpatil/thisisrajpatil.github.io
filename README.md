@@ -25,11 +25,6 @@ tools and best practices in designing mechanical equipment using AutoCAD, Catia 
 • Working on data analysis & building visualization dashboard part of a project - EDA of Retail Superstore.
 • Followin CRISP-DM Process while providing data solution.
 
-### **FRONTEND DEVELOPER**
-### Booking.com
-
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
 ### **Managed Network Expert**
 ### Chegg Inc.
 
