@@ -1,7 +1,9 @@
 title: Raj Patil # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Intern at Cognizant
+ Intern at <p align='left'>
+ <img src='https://upload.wikimedia.org/wikipedia/commons/5/5b/Cognizant%27s_logo.svg' height='30' width='auto' alt="js">
+</p>
   <br><br>
   <a href="mailto:rajptl1301@gmail.com">rajpatil1301@gmail.com </a>
   <br>
